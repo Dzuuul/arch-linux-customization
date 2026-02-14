@@ -6,7 +6,10 @@ Folder ini berisi konfigurasi Hyprland yang sudah saya kustomisasi.
 
 ~/.config/caelestia
 ~/.config/hypr
+~/.config/fish
+~/.config/fastfetch
+~/.config/foot
 
 install
 
-sudo pacman -S fastfetch
+sudo pacman -S fastfetch starship foot fish
