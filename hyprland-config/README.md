@@ -12,4 +12,4 @@ Folder ini berisi konfigurasi Hyprland yang sudah saya kustomisasi.
 
 install
 
-sudo pacman -S fastfetch starship foot fish
+sudo pacman -S fastfetch starship foot fish eza
