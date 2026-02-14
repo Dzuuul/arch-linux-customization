@@ -6,3 +6,7 @@ Folder ini berisi konfigurasi Hyprland yang sudah saya kustomisasi.
 
 ~/.config/caelestia
 ~/.config/hypr
+
+install
+
+sudo pacman -S fastfetch

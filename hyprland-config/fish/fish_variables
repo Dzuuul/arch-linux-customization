@@ -1,0 +1,5 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export BUN_INSTALL:/home/fikri/\x2ebun
+SETUVAR __fish_initialized:4300
+SETUVAR fish_user_paths:/home/fikri/\x2ebun/bin
